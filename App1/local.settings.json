@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    //"APPLICATIONINSIGHTS_CONNECTION_STRING": "AI_CONNECTION_STRING_HERE", Uncomment and set to valid CN and it will work
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true"
+  }
+}
